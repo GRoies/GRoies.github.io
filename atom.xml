@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://GRoies.github.io</id>
+    <title>Sommerlied</title>
+    <updated>2021-06-28T20:04:36.482Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://GRoies.github.io"/>
+    <link rel="self" href="https://GRoies.github.io/atom.xml"/>
+    <subtitle>Roiesland, ein Sommerlied. </subtitle>
+    <logo>https://GRoies.github.io/images/avatar.png</logo>
+    <icon>https://GRoies.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, Sommerlied</rights>
+    <entry>
+        <title type="html"><![CDATA[关于 / About]]></title>
+        <id>https://GRoies.github.io/about/</id>
+        <link href="https://GRoies.github.io/about/">
+        </link>
+        <updated>2021-06-28T19:51:43.000Z</updated>
+        <content type="html"><![CDATA[<p>G， 歌<br>
+或者你喜欢的任何非侮辱性代称<br>
+·<br>
+第N次尝试好好学习的菜鸡</p>
+<p>G<br>
+frankly my dear, I don't give a damn<br>
+any other pronouns you like, but no foul language<br>
+·<br>
+this blog remind me that I have a brain and I should use it</p>
+]]></content>
+    </entry>
+</feed>
