@@ -1,2 +1,2 @@
-# [Sommerlied](httpss://GRoies.github.io)
+# [Sommerlied](https://GRoies.github.io)
 用 Gridea 搭建的个人博客
